@@ -1,3 +1,4 @@
-console.log("File 2 changes");
-
-console.log("SDASDsad");
+const test = () => {
+  console.log("MAIN");
+  console.log("STAGING");
+};
