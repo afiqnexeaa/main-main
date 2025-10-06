@@ -1,3 +1,3 @@
-console.log("FILE ONE");
-
-console.log("FEATURE TAH");
+const test = () => {
+  console.log("MAIN");
+};
